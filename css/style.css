@@ -20,11 +20,11 @@
   --image_height: 140px;
 
   /* You can change the colors of the title and description section by typing the color codes. */
-  --title_color: #fff;
-  --description_color: #fff;
+  --title_color: #1d1e24;
+  --description_color: #1d1e24;
 
   /* You can change the colors of social media icons by changing the color code. */
-  --svg_color: #fff;
+  --svg_color: #292929;
 
   /* You can change the background, text color and active color of the menu by changing the color codes. */
   --menu_background_color: #1d1e24;
@@ -102,6 +102,7 @@ body {
 .header_text h1 {
   color: var(--title_color);
   font-size: 2em;
+  font-weight: bold;
 }
 
 .header_text h2 {
