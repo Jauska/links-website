@@ -10,7 +10,6 @@
   /* You can change the background color by typing the color code. (If you do not enter a background-image image, the background-color will be active.) */
   --background_color: #000;
   --background_image: url("../img/wallpaper.jpg");
-
   /* You can change the frame thickness and color of the picture by typing the number of pixels and the color code. */
   --image_border_color: #000;
   --image_border_px: 3px;
@@ -54,6 +53,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   background: var(--background_color) var(--background_image) no-repeat center;
+  background-size: auto 110%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -205,6 +205,7 @@ main {
   min-height: 3.7em;
   text-align: center;
   cursor: pointer;
+  padding: 1em;
 }
 
 .main_small_button_list {
@@ -236,6 +237,7 @@ main {
   min-height: 3.7em;
   text-align: center;
   cursor: pointer;
+  padding: 1em;
 }
 
 /* Footer Codes */
