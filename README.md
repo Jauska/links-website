@@ -1,14 +1,10 @@
-# Demo
-
-[![Demo](https://ardacarofficial-links-website.pages.dev/readme.png 'Demo')](https://ardacarofficial-links-website.pages.dev/)
-
-
+My personal fork of [https://github.com/ardacarofficial/links-website](https://github.com/ardacarofficial/links-website)
 # Install
 
 First, clone the file with the following command. Then apply the [component](https://github.com/ardacarofficial/links-website/wiki/Component-Settings "component") and [design](https://github.com/ardacarofficial/links-website/wiki/Design-Settings "design") settings. You can check the [wiki](https://github.com/ardacarofficial/links-website/wiki "wiki") for help.
 
 ```sh
-git clone https://github.com/ardacarofficial/links-website.git
+git clone https://github.com/Jauska/links-website.git
 ```
 
 You can then upload your files to any hosting.
